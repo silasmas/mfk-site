@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title text-center">
-                        <span class="subtitle">Contact</span>
-                        <h2 class="title">Contact With Me</h2>
+                        <span class="subtitle">@lang('general.menu.contact')</span>
+                        <h2 class="title">@lang('general.page.contact')</h2>
                     </div>
                 </div>
             </div>

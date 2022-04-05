@@ -5,8 +5,8 @@
 
             <div class="col-lg-12">
                 <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true" class="section-title text-left mb_md--25 mb_sm--25">
-                    <span class="subtitle">Look My project & JUDGE</span>
-                    <h2 class="title">Mes prestations</h2>
+                    <span class="subtitle">@lang('general.page.smltTitreRealisation')</span>
+                    <h2 class="title">@lang('general.page.TitreRealisation')</h2>
                 </div>
             </div>
 

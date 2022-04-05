@@ -1,12 +1,12 @@
 
         <!-- Start Testimonia Area  -->
-        <div class="rn-testimonial-area testimonial-style-2 testimonial-with-carousel rn-section-gapTop pb--80 pb_md--50 section-separator" id="testimonial">
+        <div class="rn-testimonial-area  testimonial-style-2 testimonial-with-carousel rn-section-gapTop pb--80 pb_md--50 section-separator" id="testimonial" >
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true" class="section-title text-center mb--20 mb_md--20 mb_sm--20">
-                            <span class="subtitle">What Clients Say</span>
-                            <h2 class="title">Testimonial</h2>
+                            <span class="subtitle">@lang('general.page.smltTitreTemoignage')</span>
+                            <h2 class="title">@lang('general.page.TitreTemoignage')</h2>
                         </div>
                     </div>
                 </div>

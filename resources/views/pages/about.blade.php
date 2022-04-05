@@ -12,8 +12,8 @@
                 <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true" class="col-lg-7 mt_sm--30">
                     <div class="contant">
                         <div class="section-title text-left">
-                            <span class="subtitle">Visit my portfolio & Hire me</span>
-                            <h2 class="title">About Me</h2>
+                            <span class="subtitle">@lang('general.page.smlTitreAbour')</span>
+                            <h2 class="title">@lang('general.page.titreAbout')</h2>
                         </div>
                         <p class="discription">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa
@@ -29,7 +29,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa
                             cupiditate accusantium voluptatibus quidem nam, reprehenderit,
                         </p>
-                        <a class="rn-btn" href="#contacts"><span>DOWNLOAD MY CV</span></a>
+                        <a class="rn-btn" href="#contacts"><span>@lang('general.page.btnAbout')</span></a>
                     </div>
                 </div>
             </div>

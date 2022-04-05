@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true" class="section-title text-left">
-                    <span class="subtitle">Mes différentes</span>
-                    <h2 class="title">Casquettes</h2>
+                    <span class="subtitle">@lang('general.page.smltTitreService')</span>
+                    <h2 class="title">@lang('general.page.TitreService')</h2>
                 </div>
             </div>
         </div>

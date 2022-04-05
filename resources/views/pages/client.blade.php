@@ -1,4 +1,4 @@
- <!-- Start Cient Area -->
+ {{-- <!-- Start Cient Area -->
  <div id="client" class="rn-client-area rn-client-style-2 rn-section-gap section-separator">
     <div class="container">
         <div class="row">
@@ -93,4 +93,4 @@
         </div>
     </div>
 </div>
-<!-- end Cient Area -->
+<!-- end Cient Area --> --}}
