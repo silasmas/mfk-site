@@ -16,20 +16,11 @@
                             <h2 class="title">@lang('general.page.titreAbout')</h2>
                         </div>
                         <p class="discription">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa
-                            cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus
-                            adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati
-                            eius quasi doloribus illum minus fugit.
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa
-                            cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus
-                            adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati
-                            eius quasi doloribus illum minus fugit.
+                          {{Str::limit(__('general.autre.about'),1300,"...")}}
                         </p>
-                        <p class="discription">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa
-                            cupiditate accusantium voluptatibus quidem nam, reprehenderit,
-                        </p>
-                        <a class="rn-btn" href="#contacts"><span>@lang('general.page.btnAbout')</span></a>
+
+                        <a class="rn-btn" href="#"
+                        data-toggle="modal" data-target="#modal-about"><span>@lang('general.page.btnAbout')</span></a>
                     </div>
                 </div>
             </div>

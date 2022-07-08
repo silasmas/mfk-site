@@ -19,7 +19,7 @@
                             <i data-feather="menu"></i>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Psychologue</a></h4>
+                            <h4 class="title"><a href="#">@lang("general.page.psychologue")</a></h4>
                             <p class="description">I throw myself down among the tall grass by the stream as I
                                 lie close to the earth.</p>
                             <a class="read-more-button" href="#" ><i class="feather-arrow-right"></i></a>
@@ -37,7 +37,7 @@
                             <i data-feather="book-open"></i>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Artiste Musicien</a></h4>
+                            <h4 class="title"><a href="#">@lang("general.page.artiste")</a></h4>
                             <p class="description">I throw myself down among the tall grass by the stream as I
                                 lie close to the earth.</p>
                             <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
@@ -55,7 +55,7 @@
                             <i data-feather="tv"></i>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="#">Humouriste</a></h4>
+                            <h4 class="title"><a href="#">@lang("general.page.humour")</a></h4>
                             <p class="description">I throw myself down among the tall grass by the stream as I
                                 lie close to the earth.</p>
                             <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
