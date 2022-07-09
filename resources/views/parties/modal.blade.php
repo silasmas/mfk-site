@@ -1,5 +1,5 @@
  <!-- Modal Blog Body area Start -->
- <div class="modal fade" id="exampleModalCenters" tabindex="-1" role="dialog" aria-hidden="true">
+ <div class="modal fade" id="exampleModalCenterssd" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-news" role="document">
         <div class="modal-content">
 
@@ -103,7 +103,7 @@
 </div>
  <!-- End Modal Blog area -->
   <!-- Modal SeRVICe -->
-<div class="modal fade" id="modal-service" tabindex="-1" role="dialog" aria-hidden="true">
+{{-- <div class="modal fade" id="modal-service" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-news" role="document">
         <div class="modal-content">
 
@@ -204,7 +204,7 @@
             <!-- End of .modal-body -->
         </div>
     </div>
-</div>
+</div> --}}
 <!-- End Modal service -->
 <!-- Back to  top Start -->
 <div class="backto-top">

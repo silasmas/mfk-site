@@ -16,7 +16,8 @@
         @include('pages.temoignage')
         @include('pages.blog')
         @include('pages.contact')
-        @include('parties.modal')     
+        @include('parties.modal')
+        @include('parties.modalApropo')
 
     </main>
 
