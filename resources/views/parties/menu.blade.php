@@ -6,7 +6,8 @@
                <div class="header-left">
                    <div class="logo">
                        <a href="index.html">
-                           <img src="assets/images/logo/logos-circle.png" alt="logo">
+                           <img src="{{ asset('assets/images/logo.png') }}" alt="logo"
+                           height="80" width="80">
                        </a>
                    </div>
                </div>
