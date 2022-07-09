@@ -43,7 +43,7 @@ return [
          auteur- compositeur , mentor, leader, comédienne- humouriste,  spécialiste en paix 
          et résolution de conflict, et détentrice d'un bac  plus 5 en philosophie, à l' université 
          de yaoundé 1, et de 2 masters dont l' un en science politique à l' université de yaoundé 2
-          au Cameroun et l' autre en paix et résolution de conflicts à l' univerté de la Caroline du 
+          au Cameroun, et l' autre en paix et résolution de conflicts à l' univerté de la Caroline du 
           Nord à Greensboro, USA.",
 
     ],

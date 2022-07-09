@@ -9,7 +9,7 @@
                         </div>
                     </div>
                 </div>
-                <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true" class="col-lg-7 mt_sm--30">
+                <div class="col-lg-7 mt_sm--30">
                     <div class="contant">
                         <div class="section-title text-left">
                             <span class="subtitle">@lang('general.page.smlTitreAbour')</span>
@@ -19,8 +19,9 @@
                           {{Str::limit(__('general.autre.about'),1300,"...")}}
                         </p>
 
-                        <a class="rn-btn" href="#"
-                        data-toggle="modal" data-target="#modal-about"><span>@lang('general.page.btnAbout')</span></a>
+                        {{-- <a class="rn-btn" href="#"
+                        data-toggle="modal" data-target="#modal-about"><span>@lang('general.page.btnAbout')</span>
+                    </a> --}}
                     </div>
                 </div>
             </div>

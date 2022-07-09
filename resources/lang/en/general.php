@@ -37,7 +37,7 @@ return [
         'about' => "Marie France Nomo Messina is a psalmist-pastor, gospel artist, author-composer, 
         mentor, leader, comedian, specialist in peace and conflict resolution, and holder of a  bachelor's
          degree plus 2 years  in graduate school in philosophy at the University of Yaoundé 1. She also holds 
-         2 master's : one in political science at the University of Yaounde 2 in Cameroon and the other one in 
+         2 master's degrees : one in political science at the University of Yaounde 2 in Cameroon and the other one in 
          peace and conflict studies at the University of North Carolina in Greensboro, USA.",
 
     ],
