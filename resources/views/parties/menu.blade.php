@@ -5,9 +5,9 @@
            <div class="col-lg-2 col-6">
                <div class="header-left">
                    <div class="logo">
-                       <a href="index.html">
+                       <a href="#">
                            <img src="{{ asset('assets/images/logo.png') }}" alt="logo"
-                           height="80" width="80">
+                           style="max-height: 70px;max-width: 767px">
                        </a>
                    </div>
                </div>
