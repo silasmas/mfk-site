@@ -20,12 +20,13 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a href="#">@lang("general.page.psychologue")</a></h4>
-                            <p class="description">I throw myself down among the tall grass by the stream as I
-                                lie close to the earth.</p>
+                            <p class="description">
+                                {{ Str::limit(__("general.autre.psycho"),100,'..') }}
+                            </p>
                             <a class="read-more-button" href="#" ><i class="feather-arrow-right"></i></a>
                         </div>
                     </div>
-                    <a class="over-link" href="#" data-toggle="modal" data-target="#modal-service"></a>
+                    <a class="over-link" href="#" data-toggle="modal" data-target="#modal-service1"></a>
                 </div>
             </div>
             <!-- End SIngle Service -->
@@ -38,12 +39,13 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a href="#">@lang("general.page.artiste")</a></h4>
-                            <p class="description">I throw myself down among the tall grass by the stream as I
-                                lie close to the earth.</p>
+                            <p class="description">
+                                {{ Str::limit(__("general.autre.music"),100,'..') }}
+                            </p>
                             <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                         </div>
                     </div>
-                    <a class="over-link" href="#"  data-toggle="modal" data-target="#modal-service"></a>
+                    <a class="over-link" href="#"  data-toggle="modal" data-target="#modal-service2"></a>
                 </div>
             </div>
             <!-- End SIngle Service -->
@@ -56,12 +58,13 @@
                         </div>
                         <div class="content">
                             <h4 class="title"><a href="#">@lang("general.page.humour")</a></h4>
-                            <p class="description">I throw myself down among the tall grass by the stream as I
-                                lie close to the earth.</p>
+                            <p class="description">
+                                {{ Str::limit(__("general.autre.humour"),100,'..') }}
+                            </p>
                             <a class="read-more-button" href="#"><i class="feather-arrow-right"></i></a>
                         </div>
                     </div>
-                    <a class="over-link" href="#"  data-toggle="modal" data-target="#modal-service"></a>
+                    <a class="over-link" href="#"  data-toggle="modal" data-target="#modal-service3"></a>
                 </div>
             </div>
             <!-- End SIngle Service -->
